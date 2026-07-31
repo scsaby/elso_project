@@ -1,1 +1,1 @@
-print("Sziasztok!")
+print("Sziasztok ez python program!")
